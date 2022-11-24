@@ -10,3 +10,5 @@ Well, this script prevents that.
 Download the script [here](https://github.com/Kief5555/GeForceNow-Afk/releases/download/V0.1/GFN.Anti.scpt) and open it while GFN is running.
 It will ping the app every 5 minutes.
 Once you are done afking you can close it
+
+file:///C:/
