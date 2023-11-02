@@ -11,4 +11,3 @@ Download the script [here](https://github.com/Kief5555/GeForceNow-Afk/releases/d
 It will ping the app every 5 minutes.
 Once you are done afking you can close it
 
-file:///C:/
